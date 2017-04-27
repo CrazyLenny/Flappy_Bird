@@ -16,7 +16,7 @@ public class FlappyBird {
 		JFrame jframe = new JFrame();
 		
 		renderer = new Renderer();
-		
+		// this is just a comment
 		jframe.add(renderer);
 		jframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		jframe.setSize(WIDTH,HEIGHT);
