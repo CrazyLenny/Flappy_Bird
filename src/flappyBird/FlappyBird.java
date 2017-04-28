@@ -12,6 +12,7 @@ import javax.swing.JFrame;
 import javax.swing.Timer;
 // this is from my laptop 
 // change from laptop
+// change from desktop
 public class FlappyBird implements ActionListener{
 	
 	public static FlappyBird flappyBird;
