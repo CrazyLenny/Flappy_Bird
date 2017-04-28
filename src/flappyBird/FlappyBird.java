@@ -11,6 +11,7 @@ import java.util.Random;
 import javax.swing.JFrame;
 import javax.swing.Timer;
 // this is from my laptop 
+// change from laptop
 public class FlappyBird implements ActionListener{
 	
 	public static FlappyBird flappyBird;
